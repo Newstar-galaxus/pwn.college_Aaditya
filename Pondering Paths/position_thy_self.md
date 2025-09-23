@@ -1,5 +1,5 @@
 # Challenge Name
-type what the challenge asks
+To execute the /challenge/run program from a given path
 
 ## My solve
 Output:
