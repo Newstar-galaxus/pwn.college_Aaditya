@@ -1,5 +1,5 @@
 # Challenge Name
-To run /challenge/run using a relative path while having a current working directory of /
+To run /challenge/run using a relative path while having a current working directory of / and use . in relative path
 
 ## My solve
 Output:
